@@ -97,7 +97,7 @@ The last command deploys the RabbitMQ Cluster Kubernetes Operator on the Kuberne
 
 The Operator's Helm chart requires
 
-* Helm chart 3.1.0
+* Helm release v3.1.0 or later
 * PV provisioner support in the underlying infrastructure
 
 
